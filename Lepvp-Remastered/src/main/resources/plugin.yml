@@ -1,5 +1,0 @@
-name: Lepvp
-version: '${project.version}'
-main: me.maanraj514.LepvpRemastered
-api-version: 1.17
-depend: [GameAPI]
